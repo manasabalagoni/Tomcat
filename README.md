@@ -16,15 +16,26 @@ called  archetypes   which can help    you  generate   some   hello   world  pro
 Platform .  
 
 C:\Users\pdam>mvn  archetype::generate
+
 [INFO] Scanning for projects...
+
 [INFO]
+
 [INFO] ------------------------------------------------------------------------
+
 [INFO] Building Maven Stub Project (No POM) 1
+
 [INFO] ------------------------------------------------------------------------
+
 [INFO]
+
 [INFO] >>> maven-archetype-plugin:2.2:generate (default-cli) @ standalone-pom 
+
 [INFO] Generating project in Interactive mode
+
 ---   A long  List  of   archetypes  ---
+Sample   application  to be   used 
+==================================
 
 Lets   choose  a  basic  tomcat  application  which  needs   to be  deployed  on a  tomcat instance as a    war 
 
