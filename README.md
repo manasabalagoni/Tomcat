@@ -48,6 +48,14 @@ It  has   5  submodules
       basic-webapp     A  set of   HTML /JSP  Pages   where  the  service is  calle 
       basic-webapp-exec   A   binary  bundle  with   application  embeeded  as  1   war  in   tomcat 
       basc-webapp-it   Selenium   Functional  Tests    to  run   it 
+      
+      
+Get  the  project   and   build   it   till the  test  phase  
+
+      mvn test 
+      
+
+
 
 
       
