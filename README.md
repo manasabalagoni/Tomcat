@@ -39,7 +39,7 @@ Sample   application  to be   used
 
 Lets   choose  a  basic  tomcat  application  which  needs   to be  deployed  on a  tomcat instance as a    war 
 
-Its   is   called   tomcat-maven-archetype  and  is   a   complete  service oriented ,layered   tomcat  application  
+Its   is   called   tomcat-maven-archetype  and  is   a   complete  webarchive  deployed to  Tomcat 6  or  7  
 
 It  has   5  submodules  
 
